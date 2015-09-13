@@ -9,7 +9,7 @@
 #include <sys/types.h>
 #include <time.h>
 #include <unistd.h>
-#include "libmss.h"
+#include "libs3.h"
 
 // Some Windows stuff
 #ifndef FOPEN_EXTRA_FLAGS
